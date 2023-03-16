@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-03-16T12:48:24.771Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36 Edg/111.0.1661.41" etag="9mJf40KirDUnlmWMrlP-" version="21.0.6" type="github">
+<mxfile host="app.diagrams.net" modified="2023-03-16T14:05:00.808Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36 Edg/111.0.1661.41" etag="F6QMlx-_ZjVMVmq8zVm0" version="21.0.6" type="github">
   <diagram name="第 1 页" id="eftHnV5JVbOcPss7Ex_q">
-    <mxGraphModel dx="1461" dy="1040" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2530" dy="946" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -140,74 +140,134 @@
         <mxCell id="jWhlpxWhsehUcC8-257P-55" value="写事件" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-175" y="1750" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="7deh1irWF3qx42piTFO3-2" style="edgeStyle=none;rounded=0;sketch=1;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="7deh1irWF3qx42piTFO3-5" target="7deh1irWF3qx42piTFO3-7">
+        <mxCell id="7deh1irWF3qx42piTFO3-2" style="edgeStyle=none;rounded=0;sketch=1;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="7deh1irWF3qx42piTFO3-5" target="7deh1irWF3qx42piTFO3-7" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="7deh1irWF3qx42piTFO3-3" style="edgeStyle=none;rounded=0;sketch=1;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="7deh1irWF3qx42piTFO3-5" target="7deh1irWF3qx42piTFO3-11">
+        <mxCell id="7deh1irWF3qx42piTFO3-3" style="edgeStyle=none;rounded=0;sketch=1;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="7deh1irWF3qx42piTFO3-5" target="7deh1irWF3qx42piTFO3-11" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="7deh1irWF3qx42piTFO3-4" style="edgeStyle=none;rounded=0;sketch=1;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="7deh1irWF3qx42piTFO3-5" target="7deh1irWF3qx42piTFO3-23">
+        <mxCell id="7deh1irWF3qx42piTFO3-4" style="edgeStyle=none;rounded=0;sketch=1;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="7deh1irWF3qx42piTFO3-5" target="7deh1irWF3qx42piTFO3-23" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="7deh1irWF3qx42piTFO3-5" value="RDB和AOF配合使用" style="rounded=0;whiteSpace=wrap;html=1;comic=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+        <mxCell id="7deh1irWF3qx42piTFO3-5" value="RDB和AOF配合使用" style="rounded=0;whiteSpace=wrap;html=1;comic=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
           <mxGeometry x="-757" y="2095" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="7deh1irWF3qx42piTFO3-6" style="edgeStyle=none;rounded=0;sketch=1;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="7deh1irWF3qx42piTFO3-7" target="7deh1irWF3qx42piTFO3-8">
+        <mxCell id="7deh1irWF3qx42piTFO3-6" style="edgeStyle=none;rounded=0;sketch=1;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="7deh1irWF3qx42piTFO3-7" target="7deh1irWF3qx42piTFO3-8" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="7deh1irWF3qx42piTFO3-7" value="单独使用RDB的缺点" style="rounded=0;whiteSpace=wrap;html=1;comic=1;fillColor=#b0e3e6;strokeColor=#0e8088;" vertex="1" parent="1">
+        <mxCell id="7deh1irWF3qx42piTFO3-7" value="单独使用RDB的缺点" style="rounded=0;whiteSpace=wrap;html=1;comic=1;fillColor=#b0e3e6;strokeColor=#0e8088;" parent="1" vertex="1">
           <mxGeometry x="-568.5" y="1995" width="146.5" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="7deh1irWF3qx42piTFO3-8" value="快照的频率不好把握：&lt;br&gt;&lt;div&gt;- 频率太低，两次快照间一旦服务器发生宕机，就可能会&lt;b&gt;比较多的数据丢失&lt;/b&gt;；&lt;/div&gt;&lt;div&gt;- 频率太高，频繁写入磁盘和创建子进程会带来&lt;b&gt;额外的性能开销&lt;/b&gt;。&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;comic=1;fillColor=#d5e8d4;strokeColor=#82b366;align=left;" vertex="1" parent="1">
+        <mxCell id="7deh1irWF3qx42piTFO3-8" value="快照的频率不好把握：&lt;br&gt;&lt;div&gt;- 频率太低，两次快照间一旦服务器发生宕机，就可能会&lt;b&gt;比较多的数据丢失&lt;/b&gt;；&lt;/div&gt;&lt;div&gt;- 频率太高，频繁写入磁盘和创建子进程会带来&lt;b&gt;额外的性能开销&lt;/b&gt;。&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;comic=1;fillColor=#d5e8d4;strokeColor=#82b366;align=left;" parent="1" vertex="1">
           <mxGeometry x="-378" y="1970" width="233" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="7deh1irWF3qx42piTFO3-9" style="edgeStyle=none;rounded=0;sketch=1;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="7deh1irWF3qx42piTFO3-11" target="7deh1irWF3qx42piTFO3-12">
+        <mxCell id="7deh1irWF3qx42piTFO3-9" style="edgeStyle=none;rounded=0;sketch=1;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="7deh1irWF3qx42piTFO3-11" target="7deh1irWF3qx42piTFO3-12" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="7deh1irWF3qx42piTFO3-10" style="edgeStyle=none;rounded=0;sketch=1;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="7deh1irWF3qx42piTFO3-11" target="7deh1irWF3qx42piTFO3-15">
+        <mxCell id="7deh1irWF3qx42piTFO3-10" style="edgeStyle=none;rounded=0;sketch=1;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="7deh1irWF3qx42piTFO3-11" target="7deh1irWF3qx42piTFO3-15" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="7deh1irWF3qx42piTFO3-11" value="开启混合持久化功能" style="rounded=0;whiteSpace=wrap;html=1;comic=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+        <mxCell id="7deh1irWF3qx42piTFO3-11" value="开启混合持久化功能" style="rounded=0;whiteSpace=wrap;html=1;comic=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="-568.5" y="2075" width="146.5" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="7deh1irWF3qx42piTFO3-12" value="&lt;div style=&quot;text-align: left&quot;&gt;&lt;span&gt;配置文件中添加：&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;span&gt;aof-use-rdb-preamble yes&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;comic=1;fillColor=#ffe6cc;strokeColor=#d79b00;sketch=1;" vertex="1" parent="1">
+        <mxCell id="7deh1irWF3qx42piTFO3-12" value="&lt;div style=&quot;text-align: left&quot;&gt;&lt;span&gt;配置文件中添加：&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;span&gt;aof-use-rdb-preamble yes&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;comic=1;fillColor=#ffe6cc;strokeColor=#d79b00;sketch=1;" parent="1" vertex="1">
           <mxGeometry x="-378" y="2070" width="156" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="7deh1irWF3qx42piTFO3-13" style="edgeStyle=none;rounded=0;sketch=1;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="7deh1irWF3qx42piTFO3-15" target="7deh1irWF3qx42piTFO3-17">
+        <mxCell id="7deh1irWF3qx42piTFO3-13" style="edgeStyle=none;rounded=0;sketch=1;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="7deh1irWF3qx42piTFO3-15" target="7deh1irWF3qx42piTFO3-17" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="7deh1irWF3qx42piTFO3-14" style="edgeStyle=none;rounded=0;sketch=1;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="7deh1irWF3qx42piTFO3-15" target="7deh1irWF3qx42piTFO3-21">
+        <mxCell id="7deh1irWF3qx42piTFO3-14" style="edgeStyle=none;rounded=0;sketch=1;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="7deh1irWF3qx42piTFO3-15" target="7deh1irWF3qx42piTFO3-21" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="7deh1irWF3qx42piTFO3-15" value="AOF重写日志时" style="rounded=0;whiteSpace=wrap;html=1;comic=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+        <mxCell id="7deh1irWF3qx42piTFO3-15" value="AOF重写日志时" style="rounded=0;whiteSpace=wrap;html=1;comic=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="-548.5" y="2145" width="106.5" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="7deh1irWF3qx42piTFO3-16" style="edgeStyle=none;rounded=0;sketch=1;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="7deh1irWF3qx42piTFO3-17" target="7deh1irWF3qx42piTFO3-19">
+        <mxCell id="7deh1irWF3qx42piTFO3-16" style="edgeStyle=none;rounded=0;sketch=1;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="7deh1irWF3qx42piTFO3-17" target="7deh1irWF3qx42piTFO3-19" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="7deh1irWF3qx42piTFO3-17" value="① 将与主线程共享的内存数据&lt;b&gt;以 RDB 方式写入到 AOF 文件&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;comic=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1">
+        <mxCell id="7deh1irWF3qx42piTFO3-17" value="① 将与主线程共享的内存数据&lt;b&gt;以 RDB 方式写入到 AOF 文件&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;comic=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" parent="1" vertex="1">
           <mxGeometry x="-578.5" y="2205" width="166.5" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="7deh1irWF3qx42piTFO3-18" style="edgeStyle=none;rounded=0;sketch=1;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="7deh1irWF3qx42piTFO3-19" target="7deh1irWF3qx42piTFO3-20">
+        <mxCell id="7deh1irWF3qx42piTFO3-18" style="edgeStyle=none;rounded=0;sketch=1;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="7deh1irWF3qx42piTFO3-19" target="7deh1irWF3qx42piTFO3-20" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="7deh1irWF3qx42piTFO3-19" value="② 主线程处理的&lt;b&gt;操作命令&lt;/b&gt;会被&lt;b&gt;记录在重写缓冲区里&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;comic=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1">
+        <mxCell id="7deh1irWF3qx42piTFO3-19" value="② 主线程处理的&lt;b&gt;操作命令&lt;/b&gt;会被&lt;b&gt;记录在重写缓冲区里&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;comic=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" parent="1" vertex="1">
           <mxGeometry x="-578.5" y="2265" width="166.5" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="7deh1irWF3qx42piTFO3-20" value="③ 将重写缓冲区中的内容追加到新AOF文件的末尾" style="rounded=0;whiteSpace=wrap;html=1;comic=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1">
+        <mxCell id="7deh1irWF3qx42piTFO3-20" value="③ 将重写缓冲区中的内容追加到新AOF文件的末尾" style="rounded=0;whiteSpace=wrap;html=1;comic=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" parent="1" vertex="1">
           <mxGeometry x="-578.5" y="2325" width="166.5" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="7deh1irWF3qx42piTFO3-21" value="" style="shape=image;imageAspect=0;aspect=fixed;verticalLabelPosition=bottom;verticalAlign=top;sketch=1;image=https://codereaper-image-bed.oss-cn-shenzhen.aliyuncs.com/img/f67379b60d151262753fec3b817b8617.png;imageBorder=default;" vertex="1" parent="1">
+        <mxCell id="7deh1irWF3qx42piTFO3-21" value="" style="shape=image;imageAspect=0;aspect=fixed;verticalLabelPosition=bottom;verticalAlign=top;sketch=1;image=https://codereaper-image-bed.oss-cn-shenzhen.aliyuncs.com/img/f67379b60d151262753fec3b817b8617.png;imageBorder=default;" parent="1" vertex="1">
           <mxGeometry x="-372" y="2137" width="160.67" height="176" as="geometry" />
         </mxCell>
-        <mxCell id="7deh1irWF3qx42piTFO3-22" style="edgeStyle=none;rounded=0;sketch=1;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="7deh1irWF3qx42piTFO3-23" target="7deh1irWF3qx42piTFO3-24">
+        <mxCell id="7deh1irWF3qx42piTFO3-22" style="edgeStyle=none;rounded=0;sketch=1;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="7deh1irWF3qx42piTFO3-23" target="7deh1irWF3qx42piTFO3-24" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="7deh1irWF3qx42piTFO3-23" value="好处" style="rounded=0;whiteSpace=wrap;html=1;comic=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+        <mxCell id="7deh1irWF3qx42piTFO3-23" value="好处" style="rounded=0;whiteSpace=wrap;html=1;comic=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="-578.5" y="2405" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="7deh1irWF3qx42piTFO3-24" value="&lt;div style=&quot;text-align: left&quot;&gt;&lt;span&gt;重启 Redis 加载数据的时候：&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;span&gt;①&amp;nbsp;前半部分是RDB内容，加载的时候速度会很快&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;②&amp;nbsp;加载后半部分的AOF内容，这里的内容是Redis后台子进程重写AOF期间，主线程处理的操作命令，可以使得&lt;b&gt;数据更少的丢失&lt;/b&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;comic=1;fillColor=#ffe6cc;strokeColor=#d79b00;sketch=1;" vertex="1" parent="1">
+        <mxCell id="7deh1irWF3qx42piTFO3-24" value="&lt;div style=&quot;text-align: left&quot;&gt;&lt;span&gt;重启 Redis 加载数据的时候：&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;span&gt;①&amp;nbsp;前半部分是RDB内容，加载的时候速度会很快&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;②&amp;nbsp;加载后半部分的AOF内容，这里的内容是Redis后台子进程重写AOF期间，主线程处理的操作命令，可以使得&lt;b&gt;数据更少的丢失&lt;/b&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;comic=1;fillColor=#ffe6cc;strokeColor=#d79b00;sketch=1;" parent="1" vertex="1">
           <mxGeometry x="-462" y="2370" width="240" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="9vOVsGMVSCyXEhv2zeX4-4" value="" style="edgeStyle=none;shape=connector;rounded=0;sketch=1;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=default;strokeColor=default;fontFamily=Helvetica;fontSize=12;fontColor=default;endArrow=classic;" edge="1" parent="1" source="9vOVsGMVSCyXEhv2zeX4-2" target="9vOVsGMVSCyXEhv2zeX4-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9vOVsGMVSCyXEhv2zeX4-2" value="Redis 单线程模式" style="rounded=0;whiteSpace=wrap;html=1;comic=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="-680" y="2690" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="9vOVsGMVSCyXEhv2zeX4-6" value="" style="edgeStyle=none;shape=connector;rounded=0;sketch=1;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=default;strokeColor=default;fontFamily=Helvetica;fontSize=12;fontColor=default;endArrow=classic;" edge="1" parent="1" source="9vOVsGMVSCyXEhv2zeX4-3" target="9vOVsGMVSCyXEhv2zeX4-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9vOVsGMVSCyXEhv2zeX4-10" value="" style="edgeStyle=none;shape=connector;rounded=0;sketch=1;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=default;strokeColor=default;fontFamily=Helvetica;fontSize=12;fontColor=default;endArrow=classic;" edge="1" parent="1" source="9vOVsGMVSCyXEhv2zeX4-3" target="9vOVsGMVSCyXEhv2zeX4-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9vOVsGMVSCyXEhv2zeX4-12" value="" style="edgeStyle=none;shape=connector;rounded=0;sketch=1;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=default;strokeColor=default;fontFamily=Helvetica;fontSize=12;fontColor=default;endArrow=classic;" edge="1" parent="1" source="9vOVsGMVSCyXEhv2zeX4-3" target="9vOVsGMVSCyXEhv2zeX4-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9vOVsGMVSCyXEhv2zeX4-15" style="edgeStyle=none;shape=connector;rounded=0;sketch=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;labelBackgroundColor=default;strokeColor=default;fontFamily=Helvetica;fontSize=12;fontColor=default;endArrow=classic;" edge="1" parent="1" source="9vOVsGMVSCyXEhv2zeX4-3" target="9vOVsGMVSCyXEhv2zeX4-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9vOVsGMVSCyXEhv2zeX4-3" value="redis采用单线程为什么还这么快" style="whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;rounded=0;comic=1;" vertex="1" parent="1">
+          <mxGeometry x="-413" y="2570" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="9vOVsGMVSCyXEhv2zeX4-5" value="大部分操作都在内存中完成" style="whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;rounded=0;comic=1;" vertex="1" parent="1">
+          <mxGeometry x="-155" y="2480" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="9vOVsGMVSCyXEhv2zeX4-9" value="避免多线程之间的竞争" style="whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;rounded=0;comic=1;" vertex="1" parent="1">
+          <mxGeometry x="-155" y="2580" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="9vOVsGMVSCyXEhv2zeX4-11" value="I/O多路复用机制" style="whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;rounded=0;comic=1;" vertex="1" parent="1">
+          <mxGeometry x="-160" y="2680" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="9vOVsGMVSCyXEhv2zeX4-20" value="" style="edgeStyle=none;shape=connector;rounded=0;sketch=1;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=default;strokeColor=default;fontFamily=Helvetica;fontSize=12;fontColor=default;endArrow=classic;" edge="1" parent="1" source="9vOVsGMVSCyXEhv2zeX4-14" target="9vOVsGMVSCyXEhv2zeX4-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9vOVsGMVSCyXEhv2zeX4-14" value="6.0之后为啥引入了多线程" style="rounded=0;whiteSpace=wrap;html=1;comic=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="-422" y="2720" width="146.5" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="9vOVsGMVSCyXEhv2zeX4-19" value="只是对于网络的I/O使用了多线程" style="rounded=0;whiteSpace=wrap;html=1;comic=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="-424.64" y="2800" width="153.25" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="9vOVsGMVSCyXEhv2zeX4-25" style="edgeStyle=none;shape=connector;rounded=0;sketch=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;labelBackgroundColor=default;strokeColor=default;fontFamily=Helvetica;fontSize=12;fontColor=default;endArrow=classic;" edge="1" parent="1" source="9vOVsGMVSCyXEhv2zeX4-21" target="9vOVsGMVSCyXEhv2zeX4-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9vOVsGMVSCyXEhv2zeX4-26" style="edgeStyle=none;shape=connector;rounded=0;sketch=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;labelBackgroundColor=default;strokeColor=default;fontFamily=Helvetica;fontSize=12;fontColor=default;endArrow=classic;" edge="1" parent="1" source="9vOVsGMVSCyXEhv2zeX4-21" target="9vOVsGMVSCyXEhv2zeX4-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9vOVsGMVSCyXEhv2zeX4-27" style="edgeStyle=none;shape=connector;rounded=0;sketch=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;labelBackgroundColor=default;strokeColor=default;fontFamily=Helvetica;fontSize=12;fontColor=default;endArrow=classic;" edge="1" parent="1" source="9vOVsGMVSCyXEhv2zeX4-21" target="9vOVsGMVSCyXEhv2zeX4-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9vOVsGMVSCyXEhv2zeX4-21" value="Redis 持久化" style="rounded=0;whiteSpace=wrap;html=1;comic=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="-650" y="3120" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="9vOVsGMVSCyXEhv2zeX4-22" value="AOF日志" style="rounded=0;whiteSpace=wrap;html=1;comic=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="-471" y="3020" width="146.5" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="9vOVsGMVSCyXEhv2zeX4-23" value="RDB快照" style="rounded=0;whiteSpace=wrap;html=1;comic=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="-465" y="3110" width="146.5" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="9vOVsGMVSCyXEhv2zeX4-24" value="混合持久化方式" style="rounded=0;whiteSpace=wrap;html=1;comic=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="-471.5" y="3190" width="146.5" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
